@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 This research aims to improve online learning for visually impaired elementary students through five sub-objectives: proposing an assistive Ai voice bot, building an equity-focused e-learning environment, analyzing platform performance, developing an online examination, and accessibility. The interdisciplinary nature of natural language processing, speech recognition, and data management used in this study to establish a high-performance learning environment. The research conducted shows that almost all the stated objectives that contribute positively to the academic performance of students with visual impairments have been achieved. 
+
+Components - Tutor recommendation (Online Examination), Voice-based calculator, Voice-based Gaming module, Supportive Ai voice-bot.
