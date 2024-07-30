@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868804686799",
+    "project_id": "edus-d72fa",
+    "storage_bucket": "edus-d72fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868804686799:android:622c74f971739beb8898ba",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD4UXUolnLQ9Szj2D_gWBxkMfut7aakyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
