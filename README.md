@@ -24,4 +24,4 @@ Components - Tutor recommendation (Online Examination), Voice-based calculator, 
 * [<b>Flutter</b>](https://docs.flutter.dev/) - Framework.
 * [<b>Gemini API</b>](https://ai.google.dev/gemini-api/docs/api-key) - For the Supportive Voice Bot component.
 
-Please contact me at kavishka.tv99@gmail.com if you have any feedback for the webpage. :star: Star it, if you like it!
+If you have any feedback for the application please contact me at kavishka.tv99@gmail.com.   :star: Star it, if you like it!
